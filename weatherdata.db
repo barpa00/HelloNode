@@ -1,0 +1,15 @@
+{"lat":"40.73","lon":"-73.98","airdata":{"value":-1},"_id":"3cH6DzViOMLS5hF2"}
+{"lat":"40.73","lon":"-73.98","temp":20.9,"airdata":{"parameter":"pm25","value":15.1,"lastUpdated":"2021-09-08T06:36:47+00:00","unit":"µg/m³"},"_id":"4aQJ5wsIY7UreKED"}
+{"lat":"19.08","lon":"72.88","temp":28.03,"airdata":{"parameter":"pm25","value":7,"lastUpdated":"2021-09-08T03:30:00+00:00","unit":"µg/m³"},"_id":"6Ihnj0SMxvIVY2kd"}
+{"lat":"19.08","lon":"72.88","temp":28.03,"airdata":{"parameter":"pm25","value":7,"lastUpdated":"2021-09-08T03:30:00+00:00","unit":"µg/m³"},"_id":"MQAF4F0jpMFS2lyP"}
+{"lat":"19.08","lon":"72.88","temp":27,"airdata":{"parameter":"pm25","value":7,"lastUpdated":"2021-09-08T01:30:00+00:00","unit":"µg/m³"},"_id":"Mg2QFCQibicZGSus"}
+{"lat":"51.51","lon":"-0.13","temp":17.14,"airdata":{"parameter":"pm25","value":36.05,"lastUpdated":"2020-12-01T00:00:00+00:00","unit":"µg/m³"},"_id":"TvZK3AXyPD9SMKSu"}
+{"lat":"35.69","lon":"139.69","temp":22.68,"airdata":{"value":-1},"_id":"UCzyBn2SA7wb8MO0"}
+{"lat":"40.73","lon":"-73.98","temp":20.54,"airdata":{"parameter":"pm25","value":0,"lastUpdated":"2021-09-08T07:22:47+00:00","unit":"particles/cm³"},"_id":"VB3i8yckTWSqnNq4"}
+{"lat":"35.69","lon":"139.69","airdata":{"value":-1},"_id":"ZkAkAbHZk9NMzbSl"}
+{"lat":"35.69","lon":"139.69","temp":22.68,"airdata":{"value":-1},"_id":"dOmF19rXK2FADXhs"}
+{"lat":"40.73","lon":"-73.98","temp":20.9,"airdata":{"parameter":"pm25","value":15.1,"lastUpdated":"2021-09-08T06:36:47+00:00","unit":"µg/m³"},"_id":"j5sI70AkGeZCo6Qu"}
+{"lat":"40.73","lon":"-73.98","temp":20.54,"airdata":{"parameter":"pm25","value":0,"lastUpdated":"2021-09-08T07:22:47+00:00","unit":"particles/cm³"},"_id":"sZzIUjdxaNv1qNvr"}
+{"lat":"40.73","lon":"-73.98","temp":20.54,"airdata":{"parameter":"pm25","value":0,"lastUpdated":"2021-09-08T07:22:47+00:00","unit":"particles/cm³"},"_id":"zRGKd5G0JZzWA7ht"}
+{"lat":"40.73","lon":"-73.98","airdata":{"value":-1},"_id":"yAOKnXnDSssrHavK"}
+{"lat":"40.73","lon":"-73.98","temp":20.58,"airdata":{"parameter":"pm25","value":0,"lastUpdated":"2021-09-08T07:22:47+00:00","unit":"particles/cm³"},"_id":"GwksAWJpBN8GqM7O"}

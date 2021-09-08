@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <title>The Weather Here</title>
+</head>
+
+<body>
+  <h2>The Weather is Here</h2>
+  <div>
+    <a href="/">check in</a> | <a href="/checkins">view checkins</a>
+  </div>
+  <div class="data_content">
+    <p>
+      The weather here at <span id="latitude"></span>&deg;,
+      <span id="longitude"></span>&deg; is <span id="summary"></span> with
+      a temperature of <span id="temp"></span>&deg; C. 
+    </p>
+  </div>
+  <br>
+  <h2>POST vegetable</h2>
+  <label for="vegetable">enter your favorite vegetable</label>
+  <input id="vegetable" value="arugula" />
+  <button id="submit">submit</button>
+
+  <script src="sketch.js"></script>
+</body>
+
+</html>
