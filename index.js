@@ -1,19 +1,19 @@
-// const express = require('express');
-// const Datastore = require('nedb');
 import express from 'express'
 import Datastore from 'nedb'
 import fetch from 'node-fetch';
+import dotenv from 'dotenv'
+
 if (!globalThis.fetch) {
 	globalThis.fetch = fetch;
 }
-
-import dotenv from 'dotenv'
 dotenv.config()
 
-console.log(process.env)
-
 const app = express();
-app.listen(3000, () => console.log('listening at 3000'));
+const port = process.env.PORT || 3000
+
+app.listen(port, () => {
+  console.log(` start at ${port} `)
+});
 
 // 建立名為 database.db 的檔案
 const database = new Datastore("database.db")
